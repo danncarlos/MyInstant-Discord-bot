@@ -1,6 +1,6 @@
 # MyInstant-Discord-bot
 
-## Descrição do Projeto
+## About
 Bot plays My Instant sounds, either by url or sound name.
 
 ### Features
