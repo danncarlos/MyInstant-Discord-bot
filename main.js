@@ -3,7 +3,7 @@ const audioService = require('./services/audioService.js');
 
 
 const bot = new Discord.Client();
-const token = 'ODQ2NzkwNjU0MTgwMzI3NDc1.YK0pQA.WjpOlXdN76zZCOLOHdHeda_4YmY';
+const token = 'YOUR_DISCORD_TOKEN';
 const PREFIX = '!';
 
 bot.login(token);
